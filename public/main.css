@@ -1,5 +1,5 @@
-.hello{
-    color: blue;
+.container {
+  display: flex; /* or inline-flex */
 }
 /*!
  * Bootstrap v5.1.1 (https://getbootstrap.com/)
