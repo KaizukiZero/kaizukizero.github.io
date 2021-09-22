@@ -8,4 +8,4 @@ package.json
 webpack.config.js
 
 *.LICENSE.txt
-.env
+.*
