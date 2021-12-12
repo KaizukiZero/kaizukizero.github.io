@@ -1,9 +1,7 @@
-#src
-src
+
 #NodeJS
 node_modules
-package-lock.json
-package.json
+
 #Webpack
 webpack.config.js
 
