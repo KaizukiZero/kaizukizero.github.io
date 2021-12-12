@@ -2,8 +2,5 @@
 #NodeJS
 node_modules
 
-#Webpack
-webpack.config.js
-
 *.LICENSE.txt
 .*
